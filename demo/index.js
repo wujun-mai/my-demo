@@ -78,3 +78,5 @@ let height_1 = $('.tabber').height()
 $(".position").css({
     "margin-bottom": `${height_1}px`
 })
+
+console.log("nihao")
